@@ -17,14 +17,18 @@ The book:
 | Status | Name | Details |
 | -------------     | ------------- | ------------- | 
 |:writing_hand: | Standard Handbook for Mechanical Engineers 	    | chapter 2
-|:writing_hand: | Basic Machines		                    | page 14
+|:writing_hand: | Basic Machines		                    | chapter 2: Block and Tackle
 
 # To Clone the repository
 Go to a directory specified to learn this, then open terminal / xterm and type:
 ```
 git clone https://github.com/glanzkaiser/MechanicZals.git
 ```
+# Mechanical Engineering Books
 
+For anyone who wants to learn rigorously to be an enginner or inventor
+
+<a href="https://drive.google.com/drive/folders/1LlcNT1byKM_FwHPE18VryXslWwOz_TxU?usp=sharing">Mechanical Engineering Books</a>
 
 
 # Source of Learning:
